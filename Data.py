@@ -14,7 +14,7 @@ You can use me to generate pyrogram and telethon string session. Use the below b
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("⚜ Start Generating Session ⚜", callback_data="generate")],
-        [InlineKeyboardButton(text=" Back ", callback_data="home")]
+        [InlineKeyboardButton(text=" ◀️Back◀️ ", callback_data="home")]
     ]
 
     generate_button = [
@@ -22,18 +22,18 @@ You can use me to generate pyrogram and telethon string session. Use the below b
     ]
 
     support_button = [
-        [InlineKeyboardButton("⚜ Support ⚜", url="https://t.me/LegendBot_XD")]
+        [InlineKeyboardButton("⚜🛡️ Support 🛡️⚜", url="https://t.me/TPN_CHATROOM")]
     ]
 
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://github.com/LEGEND-AI/STRING-GENERATE")],
+        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://github.com/Ajsites2324/STRING-GENERATE")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton(" About", callback_data="about")
+            InlineKeyboardButton(" ⚔️About⚔️", callback_data="about")
         ],
-        [InlineKeyboardButton("🇮🇳 Owner 🇮🇳", url="https://t.me/LegendBoy_XD")],
+        [InlineKeyboardButton("✨❤️💥Owner💥❤️✨ ", url="https://t.me/PAPA_BOL_SAKTEHO")],
     ]
 
     # Help Message
@@ -53,5 +53,5 @@ A telegram bot to generate pyrogram and telethon string session...
 [Telethon](docs.telethon.org)
 
 Language : [Python](www.python.org)
-            **Regarding ~ **@LegendBot_XD
+            **Regarding ~ **@TPN_CHATROOM
 """
